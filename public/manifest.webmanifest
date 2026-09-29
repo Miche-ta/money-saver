@@ -1,0 +1,11 @@
+{
+  "name": "Money Saver",
+  "short_name": "Money Saver",
+  "description": "Atur gaji, catat pengeluaran, dan lacak tabungan.",
+  "lang": "id",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#202124",
+  "theme_color": "#10b981",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

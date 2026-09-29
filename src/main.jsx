@@ -8,3 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// biar bisa di-install ke HP & tetap kebuka waktu offline (production saja)
+if (import.meta.env.PROD && 'serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js')
