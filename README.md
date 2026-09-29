@@ -37,3 +37,11 @@ npm run build    # build produksi ke dist/
 - `src/ui.jsx`, `src/format.js`: komponen & helper kecil
 - `src/calc.test.js`: unit test
 - `public/manifest.webmanifest`, `public/sw.js`: PWA (install & offline)
+
+## Lisensi
+
+Copyright (C) 2026 miche
+
+Proyek ini dirilis di bawah [GNU Affero General Public License v3.0 atau yang lebih baru](LICENSE) (AGPL-3.0-or-later).
+
+Singkatnya: kamu bebas memakai, mempelajari, mengubah, dan membagikan aplikasi ini. Tapi kalau kamu membagikan versi yang sudah diubah, **atau menjalankannya sebagai layanan yang bisa diakses orang lain lewat internet**, kamu wajib membuka seluruh kode sumbernya dengan lisensi yang sama. Detail lengkapnya ada di file [LICENSE](LICENSE).
